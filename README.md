@@ -1,24 +1,39 @@
-# README
+# Twitter Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a simple twitter clone built in Rails. It has authentication and tweet ownership.
 
-Things you may want to cover:
+![screenshot](public/screenshot.png)
 
-* Ruby version
+## Features
 
-* System dependencies
+- Publish, edit and delete Tweets
+- Sign up, ediit and delete profiles
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby 2.7.0
+- Rails 6.0.2.2
 
-* Database initialization
+Gems:
+- Simple Form
+- Devise
+- Gravatar
+- Bulma
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Sebastian Gil Rodriguez**
 
-* Deployment instructions
+- Github: [@sebGilR](https://github.com/sebGilR)
+- Twitter: [@sebGilR](https://twitter.com/sebGilR)
+- Linkedin: [sebastiangilrodriguez](https://www.linkedin.com/in/sebastiangilrodriguez)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sebGilR/blogger_rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
