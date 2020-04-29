@@ -27,6 +27,10 @@
     }
 }
 
-.notifications:not(:last-child) {
+abbr{
+    display: none;
+}
+
+.notification:not(:last-child) {
     margin-bottom: 0;
 }
