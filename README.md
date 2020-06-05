@@ -6,8 +6,8 @@
 
 ## Features
 
-- Publish, edit and delete Tweets
-- Sign up, ediit and delete profiles
+- Publish, edit and delete Tweets.
+- Sign up, edit and delete user profiles.
 
 ## Built With
 
