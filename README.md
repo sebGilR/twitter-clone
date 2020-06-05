@@ -9,6 +9,11 @@
 - Publish, edit and delete Tweets.
 - Sign up, edit and delete user profiles.
 
+## Potential Features
+
+- Let users follow other users.
+- Show only tweets from followed users.
+
 ## Built With
 
 - Ruby 2.7.0
