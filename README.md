@@ -17,9 +17,10 @@
 ## Built With
 
 - Ruby 2.7.0
-- Rails 6.0.2.2
+- Rails 6.0.3.2
 
 Gems:
+
 - Simple Form
 - Devise
 - Gravatar
